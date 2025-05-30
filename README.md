@@ -7,7 +7,7 @@
 This project was developed as part of a collaborative effort to build a professional-grade internal job portal system.
 
 - 👨‍💻 **Raihan Pratama** (me): Fullstack Developer – handled system architecture, frontend (React.js + Tailwind), backend (Express.js), and database integration (MySQL).
-- 🧠 **Kory Despiani**: Contributed to backend and created the system flowchart.
+- 🧠 **Kory Despiani**: Contributed to backend, design and created the system flowchart.
 - 📝 **Reja**: Supported frontend development, created the project proposal, and designed the presentation.
 
 ## ✨ Features
