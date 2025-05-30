@@ -1,6 +1,6 @@
 # Go Hire
 
-**Go Hire** is a full-stack job recruitment web application designed to simplify the hiring process for both internal employees and external applicants. This platform allows companies to manage job postings, applicant data, and streamline recruitment workflows through a centralized system.
+**Go Hire** is a full-stack job recruitment web application designed to simplify the hiring process for both internal employees applicants. This platform allows companies to manage job postings, applicant data, and streamline recruitment workflows through a centralized system.
 
 ## 🧩 Project Description
 
