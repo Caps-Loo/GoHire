@@ -80,4 +80,4 @@ The app should now be running on `http://localhost:5173` (frontend) and `http://
 
 ## 📄 License
 
-This project was created for educational purposes and portfolio demonstration.
+This project was created for the purpose of group work assignments and to demonstrate skills in related fields.
